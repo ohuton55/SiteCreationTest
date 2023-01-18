@@ -1,0 +1,50 @@
+[
+	{
+		"ja": "おひつじ座",
+		"latin": "Aries"
+	},
+	{
+		"ja": "おうし座",
+		"latin": "Taurus"
+	},
+	{
+		"ja": "ふたご座",
+		"latin": "Gemini"
+	},
+	{
+		"ja": "かに座",
+		"latin": "Cancer"
+	},
+	{
+		"ja": "しし座",
+		"latin": "Leo"
+	},
+	{
+		"ja": "おとめ座",
+		"latin": "Virgo"
+	},
+	{
+		"ja": "てんびん座",
+		"latin": "Libra"
+	},
+	{
+		"ja": "さそり座",
+		"latin": "Scorpio"
+	},
+	{
+		"ja": "いて座",
+		"latin": "Sagittarius"
+	},
+	{
+		"ja": "やぎ座",
+		"latin": "Capricorn"
+	},
+	{
+		"ja": "みずがめ座",
+		"latin": "Aquarius"
+	},
+	{
+		"ja": "うお座",
+		"latin": "Pisces"
+	}
+]
