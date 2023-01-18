@@ -4,6 +4,6 @@ var target = document.getElementById("tokei");
 var Hour = now.getHours();
 var Min = now.getMinutes();
 
-target.innerHTML = Hour + ":" + Min;
+target.innerHTML = "<h1>" + Hour + ":" + Min + "</h1>";
 
 
